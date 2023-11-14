@@ -35,4 +35,4 @@ The checkBalance function allows users to query their token balance by providing
 
  *Step 7:* Now, you are able to see your transactions and all information related to this contract.
  ## Authors
- Ashutosh
+ Anandu Singh
